@@ -65,7 +65,7 @@ projects:
 
 social:
 - {icon: 'twitter', link: '#'}
-- {icon: 'instagram', https://www.instagram.com/dania.sk.art/: '#'}
+- {icon: 'instagram', link: 'https://www.instagram.com/dania.sk.art/'}
 - {icon: 'github', link: '#'}
 - {icon: 'linkedin', link: '#'}
 - {icon: 'envelope', link: 'mailto:#'}
